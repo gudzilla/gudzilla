@@ -9,10 +9,11 @@ I adapt quickly and work well in a team, easily connecting with colleagues. I’
 👥 I’d love to be part of your team! 👥
 
 * 🌍  My Time Zone: (GMT+5)
-* 📜  See my Resume at [My Resume (Google Docs)](http://google.com)
-* 📫  You can email me at [khasan.code@gmail.com](mailto:khasan.code@gmail.com)
-* 🚀  I'm currently working on [help-request-app](http://github.com/gudzilla/help-requests-app)
+* 🚀  I'm currently working on my project [help-request-app](http://github.com/gudzilla/help-requests-app)
 
+#### Contact Me
+* Email: [khasan.code@gmail.com](mailto:khasan.code@gmail.com)
+* Telegram: [@khasan_code](https://t.me/khasan_code)
 
 ### Skills
 
@@ -23,7 +24,7 @@ I adapt quickly and work well in a team, easily connecting with colleagues. I’
 <b>List of Skills:</b> JavaScript ES6+, TypeScript, React, REST API, Redux Toolkit, RTK Query, HTML5, CSS3, SCSS/SASS, Material UI, Git, GitHub, Vite, NPM
 
 ### Socials
-
+<p>On YouTube and Twitch, I share my learning process and strive to encourage others to pursue their dreams. And also sharing my story.</p>
 <p align="left"> 
 <a href="https://www.youtube.com/@codeforfreedomX" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/codeforfreedom_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a>
 </p>
@@ -31,10 +32,11 @@ I adapt quickly and work well in a team, easily connecting with colleagues. I’
 <a href="https://www.twitch.tv/codeforfreedom_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/codeforfreedom_?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=860bdf&label=TWITCH+STATUS" /></a>
 
-### Badges
-
 
 <!--
+
+* 📫  You can email me at [khasan.code@gmail.com](mailto:khasan.code@gmail.com)
+* 📜  See my Resume at [My Resume (Google Docs)](http://google.com)
 
 ### Support Me
 
