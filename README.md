@@ -7,8 +7,13 @@
 Развиваюсь как фронтенд-разработчик, стремлюсь создавать красивые и надёжные интерфейсы.
 Хочу делать качественные продукты и быть частью IT-комьюнити.
 
+### Мои проекты
+* [Забота Рядом](http://github.com/gudzilla/help-requests-app)
+* [TypeScript Todo App with Redux](https://github.com/gudzilla/ts-todoApp)
+* [News Page](https://github.com/gudzilla/news-page)
+
 * 🌍  Моя локация: Казахстан (GMT+5)
-* 🚀  В даный момент работаю над проектом [help-request-app](http://github.com/gudzilla/help-requests-app)
+* 🚀  Ищу возможности для старта карьеры
 
 #### Контакты
 * Email: [khasan.code@gmail.com](mailto:khasan.code@gmail.com)
@@ -42,8 +47,13 @@ I'm Frontend Developer
 I'm growing as a frontend developer and passionate about building beautiful, reliable interfaces.
 Looking to create quality products and be part of an active tech community.
 
+### My Projects
+* [Care Is Close](http://github.com/gudzilla/help-requests-app)
+* [TypeScript Todo App with Redux](https://github.com/gudzilla/ts-todoApp)
+* [News Page](https://github.com/gudzilla/news-page)
+
 * 🌍  My Time Zone: (GMT+5)
-* 🚀  I'm currently working on my project [help-request-app](http://github.com/gudzilla/help-requests-app)
+* 🚀  Looking for opportunities to kick-start my career in frontend development.
 
 #### Contact Me
 * Email: [khasan.code@gmail.com](mailto:khasan.code@gmail.com)
