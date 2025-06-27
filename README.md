@@ -7,7 +7,6 @@
 Развиваюсь как фронтенд-разработчик, стремлюсь создавать красивые и надёжные интерфейсы.
 Хочу делать качественные продукты и быть частью IT-комьюнити.
 
-* 🌍  Моя локация: Казахстан (GMT+5)
 * 🚀  Готов начать карьеру и ищу возможности для роста.
 
 ### Мои проекты
@@ -47,7 +46,6 @@ I'm Frontend Developer
 I'm growing as a frontend developer and passionate about building beautiful, reliable interfaces.
 Looking to create quality products and be part of an active tech community.
 
-* 🌍  My Time Zone: (GMT+5)
 * 🚀  Looking for opportunities to kick-start my career in frontend development.
 
 ### My Projects
