@@ -10,7 +10,7 @@
 * 🚀  Готов начать карьеру и ищу возможности для роста.
 
 ### Мои проекты
-* [Забота Рядом - концепт приложения для помощи пожилым](http://github.com/gudzilla/help-requests-app)
+* [Забота Рядом - концепт приложения для запросов помощи](http://github.com/gudzilla/help-requests-app)
 * [Тудушка на React/TypeScript/Redux](https://github.com/gudzilla/ts-todoApp)
 * [News Wave - страница с новостями](https://github.com/gudzilla/news-page)
 
@@ -39,7 +39,7 @@ Looking to create quality products and be part of an active tech community.
 * 🚀  Looking for opportunities to kick-start my career in frontend development.
 
 ### My Projects
-* [Care Is Close](http://github.com/gudzilla/help-requests-app)
+* [Care Is Close - help request app concept](http://github.com/gudzilla/help-requests-app)
 * [TypeScript Todo App with Redux](https://github.com/gudzilla/ts-todoApp)
 * [News Page](https://github.com/gudzilla/news-page)
 
