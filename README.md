@@ -1,14 +1,13 @@
 # 👋 Привет, я Хасан!
 
-**Frontend Developer (React / TypeScript)**
+## **Frontend Developer (React / TypeScript)**
 
-Разрабатываю масштабируемые и производительные веб-приложения. Имею опыт коммерческой разработки, вывода продуктов в стадию MVP и работы в команде.
+Создаю интерфейсы на React/TypeScript. Уделяю внимание архитектуре и поддерживаемости кода. Есть опыт коммерческой разработки и запуска MVP в составе команд.
 
 [📫 Email](mailto:khasan.code@gmail.com) • [✈️ Telegram](https://t.me/khasan_code) • [💼 LinkedIn](https://www.linkedin.com/in/gudiyev)
 
----
 
-### 🛠 Stack & Tools
+### 🛠 Стек и Инструменты
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -22,14 +21,13 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+### 🌐 Open Source
+* **[reactuse](https://github.com/siberiacancode/reactuse)** — участие в разработке опенсорс библиотеки React хуков.
 
-### 🚀 Проекты
+### 🚀 Мои Проекты
 
-* [**Help Requests Platform**](https://github.com/gudzilla/help-requests-app) — Веб-приложение для управления запросами помощи. (React, RTK Query, MUI)
-  * *Live Demo: [help-requests-app.netlify.app](https://help-requests-app.netlify.app)*
-
-* [**News Wave**](https://github.com/gudzilla/news-page) — Динамический новостной портал с интеграцией внешнего API. (React, CSS Modules)
+* [**Help Requests Platform**](https://github.com/gudzilla/help-requests-app) — Концепт веб-приложения для управления запросами о помощи. (React, RTK Query, MUI)
+* [**News Wave**](https://github.com/gudzilla/news-page) — Динамический новостной портал с интеграцией внешнего API. (Javascript)
 
 ---
 
@@ -37,11 +35,10 @@
 
 **Frontend Developer (React / TypeScript)**
 
-I build scalable and high-performance web applications. Experienced in commercial development, bringing products to the MVP stage, and working effectively in teams.
+Building web interfaces with a focus on maintainable architecture and clean code. Experienced in commercial development, shipping products from scratch to MVP, and team collaboration.
 
 [📫 Email](mailto:khasan.code@gmail.com) • [✈️ Telegram](https://t.me/khasan_code) • [💼 LinkedIn](https://www.linkedin.com/in/gudiyev)
 
----
 
 ### 🛠 Stack & Tools
 
@@ -57,13 +54,14 @@ I build scalable and high-performance web applications. Experienced in commercia
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+
+### 🌐 Open Source Contributions
+
+* **[reactuse](https://github.com/siberiacancode/reactuse)** — Contributed to the collection of essential React Hooks.
 
 ### 🚀 Projects
 
 * [**Help Requests Platform**](https://github.com/gudzilla/help-requests-app) — A web application for creating and managing help requests. (React, RTK Query, MUI)
-  * *Live Demo: [help-requests-app.netlify.app](https://help-requests-app.netlify.app)*
-
 * [**News Wave**](https://github.com/gudzilla/news-page) — A dynamic news portal integrated with external APIs. (React, CSS Modules)
 
 
