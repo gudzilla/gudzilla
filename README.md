@@ -21,8 +21,7 @@
 
 ### Мои проекты
 * [Забота Рядом - концепт приложения для запросов помощи](http://github.com/gudzilla/help-requests-app)
-* [Тудушка на React/TypeScript/Redux](https://github.com/gudzilla/ts-todoApp)
-* [News Wave - страница с новостями](https://github.com/gudzilla/news-page)
+* [News Wave - сайт с новостями](https://github.com/gudzilla/news-page)
 
 
 
@@ -49,8 +48,7 @@ Looking to create quality products and be part of an active tech community.
 
 ### My Projects
 * [Care Is Close - help request app concept](http://github.com/gudzilla/help-requests-app)
-* [TypeScript Todo App with Redux](https://github.com/gudzilla/ts-todoApp)
-* [News Page](https://github.com/gudzilla/news-page)
+* [News Wave - website with news](https://github.com/gudzilla/news-page)
 
 
 <!--
