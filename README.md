@@ -1,54 +1,70 @@
-Привет 👋 меня зовут Хасан
-=======================
+# 👋 Привет, я Хасан!
 
-Я фронтенд разработчик 
-----------------------
+**Frontend Developer (React / TypeScript)**
 
-Развиваюсь как фронтенд-разработчик, стремлюсь создавать красивые и надёжные интерфейсы.
-Хочу делать качественные продукты и быть частью IT-комьюнити.
+Разрабатываю масштабируемые и производительные веб-приложения. Имею опыт коммерческой разработки, вывода продуктов в стадию MVP и работы в команде.
 
-### Контакты
-* Email: [khasan.code@gmail.com](mailto:khasan.code@gmail.com)
-* Telegram: [@khasan_code](https://t.me/khasan_code)
+[📫 Email](mailto:khasan.code@gmail.com) • [✈️ Telegram](https://t.me/khasan_code) • [💼 LinkedIn](https://www.linkedin.com/in/gudiyev)
 
-### Технические навыки
+---
 
-<b>Список навыков:</b> TypeScript, Javascript, React, REST API, Redux Toolkit, RTK Query, Material UI, JavaScript ES6+, HTML5, CSS3, SCSS/SASS,  Git, GitHub, Vite, NPM
+### 🛠 Stack & Tools
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![MUI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Мои проекты
-* [Забота Рядом - концепт приложения для запросов помощи](http://github.com/gudzilla/help-requests-app)
-* [News Wave - сайт с новостями](https://github.com/gudzilla/news-page)
+---
 
+### 🚀 Проекты
 
+* [**Help Requests Platform**](https://github.com/gudzilla/help-requests-app) — Веб-приложение для управления запросами помощи. (React, RTK Query, MUI)
+  * *Live Demo: [help-requests-app.netlify.app](https://help-requests-app.netlify.app)*
 
-Hi 👋 My name is Khasan
-=======================
+* [**News Wave**](https://github.com/gudzilla/news-page) — Динамический новостной портал с интеграцией внешнего API. (React, CSS Modules)
 
-I'm Frontend Developer 
-----------------------
+---
 
-I'm growing as a frontend developer and passionate about building beautiful, reliable interfaces.
-Looking to create quality products and be part of an active tech community.
+# 👋 Hi, I'm Khasan!
 
-### Contacts
-* Email: [khasan.code@gmail.com](mailto:khasan.code@gmail.com)
-* Telegram: [@khasan_code](https://t.me/khasan_code)
+**Frontend Developer (React / TypeScript)**
 
-### Skills
-<b>List of Skills:</b>  TypeScript, Javascript, React, REST API, Redux Toolkit, RTK Query, Material UI, JavaScript ES6+, HTML5, CSS3, SCSS/SASS,  Git, GitHub, Vite, NPM
+I build scalable and high-performance web applications. Experienced in commercial development, bringing products to the MVP stage, and working effectively in teams.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+[📫 Email](mailto:khasan.code@gmail.com) • [✈️ Telegram](https://t.me/khasan_code) • [💼 LinkedIn](https://www.linkedin.com/in/gudiyev)
 
+---
 
-### My Projects
-* [Care Is Close - help request app concept](http://github.com/gudzilla/help-requests-app)
-* [News Wave - website with news](https://github.com/gudzilla/news-page)
+### 🛠 Stack & Tools
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![MUI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 🚀 Projects
+
+* [**Help Requests Platform**](https://github.com/gudzilla/help-requests-app) — A web application for creating and managing help requests. (React, RTK Query, MUI)
+  * *Live Demo: [help-requests-app.netlify.app](https://help-requests-app.netlify.app)*
+
+* [**News Wave**](https://github.com/gudzilla/news-page) — A dynamic news portal integrated with external APIs. (React, CSS Modules)
 
 
 <!--
